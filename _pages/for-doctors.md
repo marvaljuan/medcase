@@ -84,4 +84,10 @@ commitment to Medcase?</h2>
 			<h3>Pay rates are given for each Nomad job upon login, and are negotiable with medical employers. Generally locum tenens medical professionals can expect to make 30-50% more than a permanent position.</h3>		
 			<h2>Do I need to get my own
 malpractice insurance?</h2>		
-			<h3>Don't worry, we've got you covered! If you're not automatically covered under the hiring facility's insurance, Medcase will provide best-in-class, occurrence-based medical malpractice insurance from Coverys. Specific plan information is always listed on our job postings.</h3>
+			<h3>Don't worry, we've got you covered! If you're not automatically covered under the hiring facility's insurance, Medcase will provide best-in-class, occurrence-based medical malpractice insurance from Coverys. Specific plan information is always listed on our job postings.</h3>		
+			<h3>Get Started Today</h3>		
+			<h2>Be free from middlemen recruiters. Start your simple, modern job search on Medcase today.
+Join for free to get instantly matched to amazing doctor jobs coast-to-coast.</h2>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						GET STARTED
+					</a>
