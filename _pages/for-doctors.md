@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://18.209.223.110/for-doctors/
 published: true
-post_date: 2020-10-21 05:00:49
+post_date: 2020-10-21 04:58:21
 ---
 <h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
 			<h2>Medcase is the first free
