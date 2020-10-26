@@ -8,51 +8,40 @@ permalink: http://18.209.223.110/for-employers/
 published: true
 post_date: 2020-10-26 03:57:45
 ---
-<h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
-			<h2>Medcase is the first free
-network for doctors to
-find great jobs - without
-agency recruiters.</h2>		
+<h1>Hire great clinicians.</h1>		
+			<h3>Post unlimited jobs for free to 40,000+ great doctors and nurses on Medcase.</h3>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
-						Find doctors job
+						join for free
 					</a>
-			<h3>Hiring clinicians? Get instantly matched. Join for free.</h3>		
-										<img width="817" height="540" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
-			<h3>SKIP AGENCY RECRUITERS</h3>		
-			<h2>Join 18,000+ doctors nationwide on
-MedCase, the first free online marketplace
-for great doctor jobs.</h2>		
-		<p><strong>NO MIDDLEMEN</strong></p><p>Connect directly with medical employers online and apply to locum tenens, permanent, and telehealth jobs with one application.</p><p><strong>100% TRANSPARENCY</strong></p><p>See all job details upfront and search by pay rates, dates, locations, facility names, and more.</p><p><strong>NO PAPERWORK</strong></p><p>Medcase digitally handles all paperwork, licensing, credentialing, malpractice insurance, and payments.</p>		
+			<h2>From large hospital systems to small private practices, medical employers love hiring great doctors and nurses on Medcase.</h2>		
+		<p>Save time. Save money. Easier, faster, cheaper than recruiters.</p><p>Get instantly matched to qualified doctors and nurses.</p><p>Hire the best clinicians for your locum tenens, permanent, telehealth, and travel nursing jobs.</p><p>Track leads, applicants, and hires in pipeline. See stats on your live jobs and hiring progress.</p>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
 						JOIN FOR FREE
 					</a>
-			<h2>What People Are Saying</h2>		
-							We are happy that we found the freelancer theme, we have launched our website business in just a few hours from purchasing, and we are very happy with the overall functionality
-							<img src="http://18.209.223.110/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
-														Ronald McDeere
-																						Start-up CEO
+										<img width="817" height="540" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
+			<h3>HOW IT WORKS</h3>		
+			<h2>Post Jobs for Free. Get Access to Thousands of Clinicians.
+100% online.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>FREE JOB POSTING</h2>		
+			<h2>Manage the applications, credentialing, and payment processes online, without paper work</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>AUTOMATIC MATCHES</h2>		
+			<h2>See full clinician profiles with resumes, education, work history, state licenses, and more before you engage.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>CHAT WITH CLINICIANS</h2>		
+			<h2>Access profiles of over 40,000+ great doctors and nurses for free and connect directly online - not through an agency broker.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>PAY AFTER YOU HIRE</h2>		
+			<h2>Up to 5X cheaper than agencies. 15% commission for locums and flexible pricing for travel nursing. $10K for all permanent doctors.</h2>		
+			<h2>Medcase pricing is completely transparent and there are no hidden fees.</h2>		
 							Another great service from this company. We are very glad we have found you, and you have saved our business. We were looking for a long time for a great theme like this<br><br>
-							<img src="http://18.209.223.110/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
 														John Doe
 																						Designer
-							We are happy that we found the freelancer theme, we have launched our website business in just a few hours from purchasing, and we are very happy with the overall functionality
-							<img src="http://18.209.223.110/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
-														Ronald McDeere
-																						Start-up CEO
-			<h3>HOW IT WORKS</h3>		
-			<h2>Free for doctors. No middlemen. 100% online.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>FIND A JOB</h2>		
-			<h2>Search for doctor jobs for free by salary, location, and more.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>APPLY ONCE</h2>		
-			<h2>Apply to multiple jobs with one common application.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>CHAT WITH EMPLOYERS</h2>		
-			<h2>Connect directly with employers online, not recruiters.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>DO GOOD</h2>		
-			<h2>Focus on patient care and earn more with Medcase.</h2>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						JOIN FOR FREE
+					</a>
+			<h2>How It Works</h2>		
 			<h3>Search for locum tenens, telehealth, and permanent jobs by pay rate, medical facility, dates, specialty, and more. See all the details before you engage.</h3>		
 										<img width="670" height="365" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
 										<img width="670" height="365" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
@@ -66,28 +55,43 @@ for great doctor jobs.</h2>
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
 						REGISTER NOW
 					</a>
+										<img width="338" height="338" src="http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4.png" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4.png 338w, http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4-300x300.png 300w, http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4-150x150.png 150w, http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4-250x250.png 250w, http://18.209.223.110/wp-content/uploads/2020/10/Elipse-4-120x120.png 120w" sizes="(max-width: 338px) 100vw, 338px" />											
+			<h2>Medcase Health Is Endorsed by Major Hospital Groups Across the Country</h2>		
+		<p>We’re proud to partner with <strong>The Colorado Hospital Association, The Hospital and Health system Association of Pennsylvania, and The Texas Hospital Association.</strong></p>		
+			<h2>Medcase Health Has Earned the Joint Commission’s Gold Seal of Approval</h2>		
+		<p>The <strong><em>Joint Commission’s certification</em></strong> demonstrates Medcase Health’s commitment to providing qualified and competent nurses to health care employers.</p>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
 			<h3>Learn More</h3>		
-			<h2>How is Medcase different?</h2>		
-			<h3>Medcase is a website to find clinical jobs for free, including freelance and permanent clinical work. We're different because we're the first platform to show you actual pay rates upfront and let you communicate directly with medical facilities, instead of third-party recruitment agencies or brokers. We have job opportunities across multiple specialties and locations in the United States.</h3>		
-			<h2>What is freelance clinical work?</h2>		
-			<h3>Freelance clinical work refers to locum tenens and telehealth jobs for all specialties. Locum tenens roles are short-term clinical assignments at hospitals or clinics, and you can learn more about them here. Doctors often take freelance work coming out of residency, or going into retirement.
-Doctors can also use Medcase to find permanent clinical jobs, in addition to freelance clinical work.</h3>		
-			<h2>What are the benefits to doing
-freelance clinical work?</h2>		
-			<h3>Physicians take short-term clinical jobs for many reasons, including:<br><br>- Supplemental Income — earn extra, premium income on the side<br>- Freedom and Flexibility — work wherever and whenever you want<br>- Travel and Experience — learn from different practices across the nation<br>- Life Changes — ease your transition into retirement or from residency<br>- Aid to Underserved — help those in need in understaffed rural areas</h3>		
-			<h2>Do I need to make a minimum
-commitment to Medcase?</h2>		
-			<h3>Nope. Medcase is all about independence. Work as much or as little as you like.</h3>		
-			<h2>How do I get paid?</h2>		
-			<h3>All your payments are directly deposited into your bank account. Everything is electronic and automatic. No paper checks.</h3>		
-			<h2>What is the average pay?</h2>		
-			<h3>Pay rates are given for each Nomad job upon login, and are negotiable with medical employers. Generally locum tenens medical professionals can expect to make 30-50% more than a permanent position.</h3>		
-			<h2>Do I need to get my own
-malpractice insurance?</h2>		
-			<h3>Don't worry, we've got you covered! If you're not automatically covered under the hiring facility's insurance, Medcase will provide best-in-class, occurrence-based medical malpractice insurance from Coverys. Specific plan information is always listed on our job postings.</h3>		
+			<h2>How much does it cost to use Medcase?</h2>		
+			<h3>Medcase is free to sign up as a medical employer. You only pay us if you hire clinicians using Medcase. There are no base fees. This means that you get:
+Free unlimited job posting
+Free access to our clinician database
+Free messaging with all clinicians
+When you’re ready to hire a locums doctor, Medcase charges an industry-leading 15% commission. Compare that to 70% commission agency brokers charge!
+When you’re ready to hire a permanent doctor, Medcase charges at flat $10K fee regardless of specialty. That's 40-50% cheaper than an agency recruiter.
+When you’re ready to hire a nurse, Medcase offers dynamic pricing for your travel nursing role, optimizing for cost and quality. Cost savings are as high as 30% per hire versus agency brokers.
+Medcase pricing is completely transparent and there are no hidden fees.</h3>		
+			<h2>What types of clinical jobs can I post?</h2>		
+			<h3>On Medcase, it’s free to post all types of jobs for doctors and nurses, including:
+Part-time / temporary doctor jobs (locum tenens)
+Telehealth jobs
+Travel nursing jobs
+Permanent jobs
+Medcase has signed up thousands of doctors and nurses of all specialty types. Our clinicians are actively looking for clinical job opportunities, so all open roles are welcome.</h3>		
+			<h2>Does Medcase arrange malpractice
+insurance for doctors and nurses?</h2>		
+			<h3>Yes. Every clinician you hire through Medcase will come to your facility covered by best-in-class, occurrence-based medical malpractice insurance. And to help cut your costs even more, we’ve negotiated the lowest rates in the nation.</h3>		
+			<h2>Does Medcase do background screening
+on candidates?</h2>		
+			<h3>Yes. Medcase offers complimentary background and drug screening for candidates as requested, and automates the credentialing process.</h3>		
+			<h2>For nurses, does Medcase reimburse
+travel and housing costs?</h2>		
+			<h3>Yes. Medcase offers travel nurses up to $1,000 for travel-related reimbursement and generous stipends for housing and utilities.</h3>		
 			<h3>Get Started Today</h3>		
-			<h2>Be free from middlemen recruiters. Start your simple, modern job search on Medcase today.
-Join for free to get instantly matched to amazing doctor jobs coast-to-coast.</h2>		
+			<h2>Find amazing clinicians with no middlemen recruiters.
+Join for free to get instantly matched to top clinicians.</h2>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
 						GET STARTED
 					</a>
