@@ -1,30 +1,59 @@
 ---
-ID: 1057
-post_title: For doctors
+ID: 1062
+post_title: For nurses
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://18.209.223.110/for-doctors/
+permalink: http://18.209.223.110/for-nurses/
 published: true
-post_date: 2020-10-21 04:58:21
+post_date: 2020-10-21 05:02:14
 ---
-<h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
-			<h2>Medcase is the first free
-network for doctors to
-find great jobs - without
-agency recruiters.</h2>		
+<h1>Are you a top nurse?</h1>		
+			<h3>Find great travel nursing jobs without recruiters.</h3>		
+			<h3>Earn higher pay on Medcase's network for top travel nursing jobs. Skip recruiters and connect directly with employers online.</h3>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
-						Find doctors job
+						join for free
 					</a>
-			<h3>Hiring clinicians? Get instantly matched. Join for free.</h3>		
-										<img width="817" height="540" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
-			<h3>SKIP AGENCY RECRUITERS</h3>		
-			<h2>Join 18,000+ doctors nationwide on
-MedCase, the first free online marketplace
-for great doctor jobs.</h2>		
-		<p><strong>NO MIDDLEMEN</strong></p><p>Connect directly with medical employers online and apply to locum tenens, permanent, and telehealth jobs with one application.</p><p><strong>100% TRANSPARENCY</strong></p><p>See all job details upfront and search by pay rates, dates, locations, facility names, and more.</p><p><strong>NO PAPERWORK</strong></p><p>Medcase digitally handles all paperwork, licensing, credentialing, malpractice insurance, and payments.</p>		
+			<h3>HOW IT WORKS</h3>		
+			<h2>No middlemen recruiters. 100% online.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>FIND A TRAVEL NURSING JOB</h2>		
+			<h2>Search for travel nursing jobs for free by salary, location, and more.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>APPLY ONCE</h2>		
+			<h2>Message with employers and apply to multiple jobs with one application.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>EARN MORE MONEY</h2>		
+			<h2>Focus on patient care and get paid a premium through Medcase.</h2>		
+			<h2>What is Medcase?</h2>		
+		<p>Medcase is the first free network for nurses to find travel nursing jobs, without agency recruiters. On Medcase, nurses are empowered to search for high-paying jobs transparently and connect directly with medical employers online.</p>		
+			<h3>EARN PREMIUM PAY</h3>		
+		<p>Get paid higher rates by medical employers who are saving on recruiter fees.</p>		
+			<h3>SKIP HASSLES</h3>		
+		<p>Medcase eliminates paperwork and phone calls, making it faster and easier to work.</p>		
+			<h3>CONNECT DIRECTLY</h3>		
+		<p>Personalize your job search and message directly with employers, not recruiters.</p>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
-						JOIN FOR FREE
+						get started
+					</a>
+			<h2>Benefits for Nurses</h2>		
+		<p>We made Medcase to make it simple for you to grow your nursing career across the country. All nurses are W-2 employees of Medcase Health and have access to benefits from day one. This frees you to invest your time in what matters most —<strong> taking care of patients.</strong></p>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>FIND A JOB</h2>		
+			<h2>Search for doctor jobs for free by salary, location, and more.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>APPLY ONCE</h2>		
+			<h2>Apply to multiple jobs with one common application.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>CHAT WITH EMPLOYERS</h2>		
+			<h2>Connect directly with employers online, not recruiters.</h2>		
+										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
+			<h2>DO GOOD</h2>		
+			<h2>Focus on patient care and earn more with Medcase.</h2>		
+			<h2>Plus, you'll also get</h2>		
+		<p><strong>FREE TRAVEL REIMBURSEMENT</strong></p><p>Pay includes reimbursement of up to $1,000 for travel to your assignment..</p><p><strong>FREE STATE LICENSURE</strong></p><p>Any state licensing expenses are reimbursed if the nurse gets a job through Medcase in that state.</p><p><strong>MALPRACTICE INSURANCE</strong></p><p>Best-in-class, full coverage insurance provided by Medcase.</p><p><strong>PERSONAL AND PROFESSIONAL GROWTH</strong></p><p>Travel nursing offers personal enrichment from travels across the country, plus career advancement from diverse practice setting experiences.</p><p><strong>FREE HOUSING &amp; UTILITIES</strong></p><p>We offer generous weekly stipends for housing and utilities expenses.</p><p><strong>MEDICAL, DENTAL, AND VISION INSURANCE</strong></p><p>As W-2 employees of Medcase, nurses have multiple options for medical, dental, and vision plans available to them on day one.</p><p><strong>DIRECT DEPOSIT PAYROLL</strong></p><p>We ensure secure, automatic payments on a recurring basis.</p>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						join for free
 					</a>
 			<h2>What People Are Saying</h2>		
 							We are happy that we found the freelancer theme, we have launched our website business in just a few hours from purchasing, and we are very happy with the overall functionality
@@ -39,20 +68,6 @@ for great doctor jobs.</h2>
 							<img src="http://18.209.223.110/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
 														Ronald McDeere
 																						Start-up CEO
-			<h3>HOW IT WORKS</h3>		
-			<h2>Free for doctors. No middlemen. 100% online.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>FIND A JOB</h2>		
-			<h2>Search for doctor jobs for free by salary, location, and more.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>APPLY ONCE</h2>		
-			<h2>Apply to multiple jobs with one common application.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>CHAT WITH EMPLOYERS</h2>		
-			<h2>Connect directly with employers online, not recruiters.</h2>		
-										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>DO GOOD</h2>		
-			<h2>Focus on patient care and earn more with Medcase.</h2>		
 			<h3>Search for locum tenens, telehealth, and permanent jobs by pay rate, medical facility, dates, specialty, and more. See all the details before you engage.</h3>		
 										<img width="670" height="365" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
 										<img width="670" height="365" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
