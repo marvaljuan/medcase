@@ -1,10 +1,10 @@
 ---
 ID: 1051
-post_title: About
+post_title: About Us
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://18.209.223.110/about/
+permalink: http://18.209.223.110/about-us/
 published: true
 post_date: 2020-10-21 03:59:07
 ---
