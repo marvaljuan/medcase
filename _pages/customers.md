@@ -8,7 +8,14 @@ permalink: http://18.209.223.110/customers/
 published: true
 post_date: 2020-10-21 05:02:14
 ---
-<h1>Are you a top nurse?</h1>		
+<h2>Welcome to the world’s largest
+marketplace of clinicians!</h2>		
+			<h2>Here, you can browse through a catalog of physicians, clinicians, and healthcare professionals with various skill sets and specializations. You can also choose your preferred language, geographic region, and other features to find exactly what you’re looking for in your clinical projects.</h2>		
+			<h2>Register here and become a part of this worldwide network.</h2>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						JOIN FOR FREE
+					</a>
+			<h1>Are you a top nurse?</h1>		
 			<h3>Find great travel nursing jobs without recruiters.</h3>		
 			<h3>Earn higher pay on Medcase's network for top travel nursing jobs. Skip recruiters and connect directly with employers online.</h3>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
