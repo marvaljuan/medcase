@@ -8,7 +8,13 @@ permalink: http://18.209.223.110/doctors/
 published: true
 post_date: 2020-10-21 04:58:21
 ---
-<h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
+<h2>Are you a working physician?</h2>		
+			<h2>Medcase Health is looking for doctors from all specialties and geographic areas to be a part of our global network of professionals.</h2>		
+			<h2>If you’re interested in joining our platform, register here.</h2>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						GET STARTED
+					</a>
+			<h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
 			<h2>Medcase is the first free
 network for doctors to
 find great jobs - without
