@@ -10,11 +10,11 @@ post_date: 2018-07-06 07:55:11
 ---
 <h3>WHAT WE DO</h3>		
 										<img width="817" height="540" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
-			<h2>Doctors</h2>		
+			<h2>HIRING</h2>		
 		<p>We have a worldwide network of clinicians available for on demand jobs, from an extensive network of certified US board clinicians and healthcare specialists to clinicians available from our global network in Asia, Europe, Africa and South America.</p>		
 										<img width="817" height="540" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
-			<h2>Annotating / Labeling</h2>		
-		<p>We have a worldwide network of clinicians available for on demand jobs, from an extensive network of certified US board clinicians and healthcare specialists to clinicians available from our global network in Asia, Europe, Africa and South America.</p>		
+			<h2>ANNOTATING / LABELING</h2>		
+		<p>Our certified members and tools allow us to review large amounts of data in an accurate, fast and dynamic way, and bring you the best solutions for the training and labeling of your company’s AI systems. Build new and on demand workflow for any clinical task for NLP, computer vision, healthcare reports, case files, and more.</p>		
 			<h3>WHY OUR CUSTOMERS PREFER US</h3>		
 										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
 		<p><strong>Medcase Health offers an extensive network of healthcare professionals</strong> from various fields that are able to provide at scale data annotation and workflows.</p>		
@@ -23,9 +23,16 @@ post_date: 2018-07-06 07:55:11
 										<img width="240" height="160" src="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://18.209.223.110/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
 		<p><strong>We have world class experience with the FDA and bringing quality products to the market.</strong> Medcase Health roots are based on AI annotation and clinical workflows from years of experience in the industry. We are already working with world leaders in AI and Healthcare.</p>		
 			<h2>SOME OF OUR FEATURES</h2>		
-		<p>Upload data directly from your PACS or system with customized anonymization software.</p><p>Allow local clinicians and the Medcase Health medical network to quickly begin annotation through easy to use dashboards and workflows.</p><p>Maintain the highest level of security with our HIPAA compliant cloud.</p><p>Multi-language support.</p><p>Quickly license your data to third parties.</p><p>Built in secure access for client and third parties.</p><p>Best in class support and customer service.</p>		
+		<ul style="list-style-image: url('http://18.209.223.110/wp-content/uploads/2020/11/medcase-list-icon.png');"><li>Upload data directly from your PACS or system with customized anonymization software.</li><li>Allow local clinicians and the Medcase Health medical network to quickly begin annotation through easy to use dashboards and workflows.</li><li>Maintain the highest level of security with our HIPAA compliant cloud.</li><li>Multi-language support.</li><li>Quickly license your data to third parties.</li><li>Built in secure access for client and third parties.</li><li>Best in class support and customer service.</li></ul>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
 						JOIN FOR FREE
+					</a>
+			<h3>CLIENTS</h3>		
+		<p>Leading <strong>Fortune 500</strong> companies.</p>		
+			<h3>GET STARTED WITH MEDCASE HEALTH</h3>		
+		<p>Come join us in building the future of AI applications for healthcare.</p>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						GET STARTED
 					</a>
 			<h3>why medcase?</h3>		
 			<h2>The Smarter Way To Find Rewarding Work</h2>		
