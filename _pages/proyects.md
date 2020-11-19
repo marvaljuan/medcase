@@ -8,7 +8,15 @@ permalink: http://18.209.223.110/proyects/
 published: true
 post_date: 2020-10-26 03:57:45
 ---
-<h1>Hire great clinicians.</h1>		
+<h2> </h2>		
+			<h2>We offer our customers the opportunity to manage multiple projects using different skill sets from various clinicians who are registered in our large database. 
+You get to see the status of all your projects, and manage their forecast.
+</h2>		
+			<h2>Contact us and ask for a free demo of our services.</h2>		
+			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
+						CONTACT US
+					</a>
+			<h1>Hire great clinicians.</h1>		
 			<h3>Post unlimited jobs for free to 40,000+ great doctors and nurses on Medcase.</h3>		
 			<a href="http://18.209.223.110/wp-login.php?action=register" role="button">
 						join for free
