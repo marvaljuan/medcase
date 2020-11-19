@@ -1,10 +1,10 @@
 ---
 ID: 1109
-post_title: For employers
+post_title: Proyects
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://18.209.223.110/for-employers/
+permalink: http://18.209.223.110/proyects/
 published: true
 post_date: 2020-10-26 03:57:45
 ---
