@@ -8,14 +8,7 @@ permalink: http://34.201.241.169/
 published: true
 post_date: 2018-07-06 07:55:11
 ---
-<h2>The #1 marketplace of physicians, clinicians and healthcare professionals available to train the world’s best AI algorithms.</h2>		
-		<ul style="list-style-image: url('http://34.201.241.169/wp-content/uploads/2020/11/medcase-list-icon-blue.png');">
- 	<li>MD AS A SERVICE</li>
- 	<li>WORK FROM HOME</li>
- 	<li>FLEXIBLE HOURS</li>
- 	<li>HIGH PAYING ON DEMAND TASKS</li>
-</ul>Find Clinical Jobs anywhere in the world. Come join tens of thousands of doctors worldwide working towards a better healthcare system.
-Need clinicians? <em><a href="#" style="color:#0073B1">Just click here to find them.</a></em>		
+<h2>Find a doctor on-demand.</h2>		
 			<h3>WHAT WE DO</h3>		
 										<img width="817" height="540" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
 			<h2>HIRING</h2>		
