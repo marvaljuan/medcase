@@ -8,92 +8,34 @@ permalink: http://34.201.241.169/marketplace/
 published: true
 post_date: 2020-10-21 04:58:21
 ---
-<h2>Are you a working physician?</h2>		
-			<h2>Medcase Health is looking for doctors from all specialties and geographic areas to be a part of our global network of professionals.</h2>		
-			<h2>If you’re interested in joining our platform, register here.</h2>		
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
-						GET STARTED
+<p>The Medcase Marketplace is an extensive network of healthcare professionals from various fields that provide at-scale data annotation, medical data labeling and automation workflows from case management, coding, or other use cases. Medcase’s certified clinical members and workflow tools allow for large amounts of data to be reviewed in an efficient, accurate, and dynamic way, and bring our customers the best solutions for training and labeling your company’s AI system, or building a new or improved on-demand workflow for any clinical task for NLP, computer vision, healthcare reports, case files, and more.</p><p>Medcase already works with world-class leaders in the field of AI and Healthcare, and has an extensive network of certified clinicians across the globe in North America, South America, Asia, Europe, and Africa.</p>		
+			<h3>Explore our marketplace</h3>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-annotation-data-labeling-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Annotation </p><p>Data Labeling</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-workflow-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Workflow Tool</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-api-driven-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>API Driven</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-messaging-clinicians-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Messaging</p><p>to Clinicians</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-ai-automation-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>AI automation</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-centralized-billing-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Centralized billing</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-scale-up-scale-down-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Scale Up</p><p>Scale Down</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-global-from-day-1-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Global</p><p>from Day 1</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-transparent-pricing-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Transparent</p><p>pricing</p>		
+										<img width="343" height="343" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable.png 343w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable-300x300.png 300w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable-150x150.png 150w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable-250x250.png 250w, http://34.201.241.169/wp-content/uploads/2020/11/medcase-auditable-trackable-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
+		<p>Auditable</p><p>Trackable</p>		
+			<h2>Ready to build
+the future of AI applications?</h2>		
+			<a href="#" role="button">
+						Schedule a demo
 					</a>
-			<h3>FIND A DOCTOR JOB YOU LOVE.</h3>		
-			<h2>Medcase is the first free
-network for doctors to
-find great jobs - without
-agency recruiters.</h2>		
 			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
-						Find doctors job
+						get started
 					</a>
-			<h3>Hiring clinicians? Get instantly matched. Join for free.</h3>		
-										<img width="817" height="540" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-300x198.jpg 300w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w" sizes="(max-width: 817px) 100vw, 817px" />											
-			<h3>SKIP AGENCY RECRUITERS</h3>		
-			<h2>Join 18,000+ doctors nationwide on
-MedCase, the first free online marketplace
-for great doctor jobs.</h2>		
-		<p><strong>NO MIDDLEMEN</strong></p><p>Connect directly with medical employers online and apply to locum tenens, permanent, and telehealth jobs with one application.</p><p><strong>100% TRANSPARENCY</strong></p><p>See all job details upfront and search by pay rates, dates, locations, facility names, and more.</p><p><strong>NO PAPERWORK</strong></p><p>Medcase digitally handles all paperwork, licensing, credentialing, malpractice insurance, and payments.</p>		
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
-						JOIN FOR FREE
-					</a>
-			<h2>What People Are Saying</h2>		
-							We are happy that we found the freelancer theme, we have launched our website business in just a few hours from purchasing, and we are very happy with the overall functionality
-							<img src="http://34.201.241.169/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
-														Ronald McDeere
-																						Start-up CEO
-							Another great service from this company. We are very glad we have found you, and you have saved our business. We were looking for a long time for a great theme like this<br><br>
-							<img src="http://34.201.241.169/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
-														John Doe
-																						Designer
-							We are happy that we found the freelancer theme, we have launched our website business in just a few hours from purchasing, and we are very happy with the overall functionality
-							<img src="http://34.201.241.169/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
-														Ronald McDeere
-																						Start-up CEO
-			<h3>HOW IT WORKS</h3>		
-			<h2>Free for doctors. No middlemen. 100% online.</h2>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>FIND A JOB</h2>		
-			<h2>Search for doctor jobs for free by salary, location, and more.</h2>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>APPLY ONCE</h2>		
-			<h2>Apply to multiple jobs with one common application.</h2>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>CHAT WITH EMPLOYERS</h2>		
-			<h2>Connect directly with employers online, not recruiters.</h2>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-240x160.jpg 240w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13-768x508.jpg 768w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-13.jpg 817w" sizes="(max-width: 240px) 100vw, 240px" />											
-			<h2>DO GOOD</h2>		
-			<h2>Focus on patient care and earn more with Medcase.</h2>		
-			<h3>Search for locum tenens, telehealth, and permanent jobs by pay rate, medical facility, dates, specialty, and more. See all the details before you engage.</h3>		
-										<img width="670" height="365" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
-										<img width="670" height="365" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
-			<h3>Create your profile quickly and easily. Medcase automatically fills your profile with info from public databases to speed up the process.</h3>		
-			<h3>Message directly with medical facilities to inquire about a job, apply, negotiate pay rates, and finalize contract details.</h3>		
-										<img width="670" height="365" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
-										<img width="670" height="365" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
-			<h3>Medcase takes care of malpractice insurance, licensing, and credentialing. We'll even book your travel and lodging for free.</h3>		
-			<h3>Do what you do best - be a doctor!</h3>		
-										<img width="670" height="365" src="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png" alt="" loading="lazy" srcset="http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74.png 670w, http://34.201.241.169/wp-content/uploads/2020/10/Rectangulo-74-300x163.png 300w" sizes="(max-width: 670px) 100vw, 670px" />											
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
-						REGISTER NOW
-					</a>
-			<h3>Learn More</h3>		
-			<h2>How is Medcase different?</h2>		
-			<h3>Medcase is a website to find clinical jobs for free, including freelance and permanent clinical work. We're different because we're the first platform to show you actual pay rates upfront and let you communicate directly with medical facilities, instead of third-party recruitment agencies or brokers. We have job opportunities across multiple specialties and locations in the United States.</h3>		
-			<h2>What is freelance clinical work?</h2>		
-			<h3>Freelance clinical work refers to locum tenens and telehealth jobs for all specialties. Locum tenens roles are short-term clinical assignments at hospitals or clinics, and you can learn more about them here. Doctors often take freelance work coming out of residency, or going into retirement.
-Doctors can also use Medcase to find permanent clinical jobs, in addition to freelance clinical work.</h3>		
-			<h2>What are the benefits to doing
-freelance clinical work?</h2>		
-			<h3>Physicians take short-term clinical jobs for many reasons, including:<br><br>- Supplemental Income — earn extra, premium income on the side<br>- Freedom and Flexibility — work wherever and whenever you want<br>- Travel and Experience — learn from different practices across the nation<br>- Life Changes — ease your transition into retirement or from residency<br>- Aid to Underserved — help those in need in understaffed rural areas</h3>		
-			<h2>Do I need to make a minimum
-commitment to Medcase?</h2>		
-			<h3>Nope. Medcase is all about independence. Work as much or as little as you like.</h3>		
-			<h2>How do I get paid?</h2>		
-			<h3>All your payments are directly deposited into your bank account. Everything is electronic and automatic. No paper checks.</h3>		
-			<h2>What is the average pay?</h2>		
-			<h3>Pay rates are given for each Nomad job upon login, and are negotiable with medical employers. Generally locum tenens medical professionals can expect to make 30-50% more than a permanent position.</h3>		
-			<h2>Do I need to get my own
-malpractice insurance?</h2>		
-			<h3>Don't worry, we've got you covered! If you're not automatically covered under the hiring facility's insurance, Medcase will provide best-in-class, occurrence-based medical malpractice insurance from Coverys. Specific plan information is always listed on our job postings.</h3>		
-			<h3>Get Started Today</h3>		
-			<h2>Be free from middlemen recruiters. Start your simple, modern job search on Medcase today.
-Join for free to get instantly matched to amazing doctor jobs coast-to-coast.</h2>		
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
-						GET STARTED
-					</a>
+			<h2> </h2>
