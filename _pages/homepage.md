@@ -55,7 +55,7 @@ post_date: 2018-07-06 07:55:11
 			<h2>ANNOTATING / LABELING</h2>		
 		<p>Our certified members and tools allow us to review large amounts of data in an accurate, fast and dynamic way, and bring you the best solutions for the training and labeling of your company’s AI systems. Build new and on demand workflow for any clinical task for NLP, computer vision, healthcare reports, case files, and more.</p>		
 			<h3>WHY OUR CUSTOMERS PREFER US</h3>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-1-240x160.png" alt="" loading="lazy" />											
+										<img src="http://34.201.241.169/wp-content/uploads/elementor/thumbs/medcase-1-oz41c2zcx7lyi9vkhe8l90mxjqabty45vewyx4rv6i.png" title="medcase-1" alt="medcase-1" />											
 		<p><strong>Medcase Health offers an extensive network of healthcare professionals</strong> from various fields that are able to provide at scale data annotation and workflows.</p>		
 										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-2-240x160.png" alt="" loading="lazy" />											
 		<p><strong>Our marketplace and tooling is HIPAA and FDA compliant,</strong> while also making sure to adhere to the SUNSHINE ACT.</p>		
