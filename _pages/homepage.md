@@ -57,9 +57,9 @@ post_date: 2018-07-06 07:55:11
 			<h3>WHY OUR CUSTOMERS PREFER US</h3>		
 										<img src="http://34.201.241.169/wp-content/uploads/elementor/thumbs/medcase-1-oz41c2zcx7lyi9vkhe8l90mxjqabty45vewyx4rv6i.png" title="medcase-1" alt="medcase-1" />											
 		<p><strong>Medcase Health offers an extensive network of healthcare professionals</strong> from various fields that are able to provide at scale data annotation and workflows.</p>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-2-240x160.png" alt="" loading="lazy" />											
+										<img src="http://34.201.241.169/wp-content/uploads/elementor/thumbs/medcase-2-oz41c5svhppth3rh0xggyhxbbvwfh1fcvsvfcynonu.png" title="medcase-2" alt="medcase-2" />											
 		<p><strong>Our marketplace and tooling is HIPAA and FDA compliant,</strong> while also making sure to adhere to the SUNSHINE ACT.</p>		
-										<img width="240" height="160" src="http://34.201.241.169/wp-content/uploads/2020/11/medcase-3-240x160.png" alt="" loading="lazy" />											
+										<img src="http://34.201.241.169/wp-content/uploads/elementor/thumbs/medcase-3-oz41c9k891uyrjm0ez2z8gz5pfdwbtua8bhda2i3yy.png" title="medcase-3" alt="medcase-3" />											
 		<p><strong>We have world class experience with the FDA and bringing quality products to the market.</strong> Medcase Health roots are based on AI annotation and clinical workflows from years of experience in the industry. We are already working with world leaders in AI and Healthcare.</p>		
 			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
 						GET STARTED
