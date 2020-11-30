@@ -55,11 +55,11 @@ post_date: 2018-07-06 07:55:11
 			<h2>ANNOTATING / LABELING</h2>		
 		<p>Our certified members and tools allow us to review large amounts of data in an accurate, fast and dynamic way, and bring you the best solutions for the training and labeling of your company’s AI systems. Build new and on demand workflow for any clinical task for NLP, computer vision, healthcare reports, case files, and more.</p>		
 			<h3>WHY OUR CUSTOMERS PREFER US</h3>		
-										<img src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-1.png" title="medcase-1" alt="medcase-1" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/medcase-1-oz6xmxvjytq751qhqybw5zq1cd2hadn4g8iv2fepay.png" title="medcase-1" alt="medcase-1" />											
 		<p><strong>Medcase Health offers an extensive network of healthcare professionals</strong> from various fields that are able to provide at scale data annotation and workflows.</p>		
-										<img src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-2.png" title="medcase-2" alt="medcase-2" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/medcase-2-oz6xn0p2jbu23vmeahjrvh0f4iokxgybgmhbi9aisa.png" title="medcase-2" alt="medcase-2" />											
 		<p><strong>Our marketplace and tooling is HIPAA and FDA compliant,</strong> while also making sure to adhere to the SUNSHINE ACT.</p>		
-										<img src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-3.png" title="medcase-3" alt="medcase-3" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/medcase-3-oz6xn2kqwzwmr3jnzid10gjcbafbcv5s4vsagt7qfu.png" title="medcase-3" alt="medcase-3" />											
 		<p><strong>We have world class experience with the FDA and bringing quality products to the market.</strong> Medcase Health roots are based on AI annotation and clinical workflows from years of experience in the industry. We are already working with world leaders in AI and Healthcare.</p>		
 			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
 						GET STARTED
