@@ -38,4 +38,5 @@ the future of AI applications?</h2>
 			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
 						get started
 					</a>
-			<h2> </h2>
+			<h2> </h2>		
+										<img width="676" height="428" src="http://marvaljuan.com/wp-content/uploads/2020/12/medcase-future-ai.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/12/medcase-future-ai.png 676w, https://marvaljuan.com/wp-content/uploads/2020/12/medcase-future-ai-300x190.png 300w" sizes="(max-width: 676px) 100vw, 676px" />
