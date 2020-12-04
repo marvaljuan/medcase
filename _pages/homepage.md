@@ -15,9 +15,9 @@ post_date: 2018-07-06 07:55:11
 </form>
 		<p>Doctor? <a style="color: #ffffff;" href="http://34.201.241.169/wp-login.php?action=register"><em>Join us</em></a></p>		
 			<h3>Trusted by</h3>		
-										<img width="240" height="82" src="http://marvaljuan.com/wp-content/uploads/2020/11/1024px-Google_2015_logo.svg.jpg" alt="" loading="lazy" />											
-										<img width="240" height="95" src="http://marvaljuan.com/wp-content/uploads/2020/11/Verily_Life_Sciences.svg.jpg" alt="" loading="lazy" />											
-										<img width="240" height="151" src="http://marvaljuan.com/wp-content/uploads/2020/11/zebra-medical-vision-240x151.jpg" alt="" loading="lazy" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/1024px-Google_2015_logo.svg-oz6xa1j6yh4105zo09r7mo94uxzxnmha0em2k8yghs.jpg" title="1024px-Google_2015_logo.svg" alt="1024px-Google_2015_logo.svg" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/Verily_Life_Sciences.svg-oz6xam7n4twc3l5mnip05j19xf60cyrdf8yr4c3sow.jpg" title="Verily_Life_Sciences.svg" alt="Verily_Life_Sciences.svg" />											
+										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/zebra-medical-vision-oz6xbbla9dc4muddlk1pg1n1i76zdfvmfbfvvkuq68.jpg" title="zebra-medical-vision" alt="zebra-medical-vision" />											
 			<h2>Medical experts at your fingertips:</h2>		
 										<img width="133" height="130" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-find-doctors.png" alt="" loading="lazy" />											
 		<p>Find doctors anywhere in the world.</p>		
