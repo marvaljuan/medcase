@@ -4,7 +4,7 @@ post_title: Case Studies
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://marvaljuan.com/case-studies-2/
+permalink: http://marvaljuan.com/case-studies/
 published: true
 post_date: 2020-12-18 03:01:55
 ---
