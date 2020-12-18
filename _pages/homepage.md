@@ -26,7 +26,6 @@ on-demand.</h2>
 		<p>Scalable platform for every clients’ needs.</p>		
 										<img width="153" height="150" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-hipaa.png" alt="" loading="lazy" />											
 		<p>HIPAA and Sunshine Act Compliant.</p>		
-										<img width="750" height="490" src="http://marvaljuan.com/wp-content/uploads/2020/12/medical-experts-medcase.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/12/medical-experts-medcase.png 750w, https://marvaljuan.com/wp-content/uploads/2020/12/medical-experts-medcase-300x196.png 300w" sizes="(max-width: 750px) 100vw, 750px" />											
 			<h3>Explore our marketplace</h3>		
 										<img width="343" height="343" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png 343w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-300x300.png 300w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-150x150.png 150w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-250x250.png 250w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
 		<p>Annotation</p><p>Data Labeling</p>		
