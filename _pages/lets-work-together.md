@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://marvaljuan.com/lets-work-together-2/
+  http://marvaljuan.com/lets-work-together/
 published: true
 post_date: 2020-12-18 03:43:29
 ---
