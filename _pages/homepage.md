@@ -21,11 +21,11 @@ on-demand.</h2>
 										<img width="148" height="50" src="http://marvaljuan.com/wp-content/uploads/2020/12/logo-zebra-medical-vision.png" alt="" loading="lazy" />											
 			<h2>Medical experts at your fingertips:</h2>		
 										<img width="133" height="130" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-find-doctors.png" alt="" loading="lazy" />											
-		<p>Find doctors anywhere in the world.</p>		
+		Find doctors anywhere <br>in the world.		
 										<img width="153" height="150" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-sacalable.png" alt="" loading="lazy" />											
-		<p>Scalable platform for every clients’ needs.</p>		
+		Scalable platform for <br>every clients’ needs.		
 										<img width="153" height="150" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-hipaa.png" alt="" loading="lazy" />											
-		<p>HIPAA and Sunshine Act Compliant.</p>		
+		HIPAA and Sunshine <br>Act Compliant.		
 			<h3>Explore our marketplace</h3>		
 										<img width="343" height="343" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling.png 343w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-300x300.png 300w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-150x150.png 150w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-250x250.png 250w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-annotation-data-labeling-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
 		<p>Annotation</p><p>Data Labeling</p>		
@@ -47,7 +47,7 @@ on-demand.</h2>
 		<p>AI automation</p>		
 										<img width="343" height="343" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable.png 343w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable-300x300.png 300w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable-150x150.png 150w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable-250x250.png 250w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-auditable-trackable-120x120.png 120w" sizes="(max-width: 343px) 100vw, 343px" />											
 		<p>Auditable</p><p>Trackable</p>		
-			<h3>WHAT WE DO</h3>		
+			<h2>WHAT WE DO</h2>		
 										<img width="175" height="175" src="http://marvaljuan.com/wp-content/uploads/2020/11/medcase-hiring.png" alt="" loading="lazy" srcset="https://marvaljuan.com/wp-content/uploads/2020/11/medcase-hiring.png 175w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-hiring-150x150.png 150w, https://marvaljuan.com/wp-content/uploads/2020/11/medcase-hiring-120x120.png 120w" sizes="(max-width: 175px) 100vw, 175px" />											
 			<h2>HIRING</h2>		
 		<p>We have a worldwide network of clinicians available for on demand jobs, from an extensive network of certified US board clinicians and healthcare specialists to clinicians available from our global network in Asia, Europe, Africa and South America.</p>		
