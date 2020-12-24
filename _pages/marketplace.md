@@ -32,7 +32,7 @@ post_date: 2020-10-21 04:58:21
 		<p>Auditable</p><p>Trackable</p>		
 			<h2>Ready to build
 the future of AI applications?</h2>		
-			<a href="#" role="button">
+			<a href="https://marvaljuan.com/contact-us/" role="button">
 						Schedule a demo
 					</a>
 			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
