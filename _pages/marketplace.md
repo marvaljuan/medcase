@@ -35,7 +35,7 @@ the future of AI applications?</h2>
 			<a href="https://marvaljuan.com/contact-us/" role="button">
 						Schedule a demo
 					</a>
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
+			<a href="https://marvaljuan.com/wp-login.php?action=register" role="button">
 						get started
 					</a>
 			<h2> </h2>		
