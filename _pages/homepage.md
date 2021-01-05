@@ -14,7 +14,7 @@ on-demand.</h2>
     <input type="text" id="search-box-m1" placeholder="Start search..." name="term">
       <button id="search-button-m1" type="submit">Search Now</button>
 </form>
-		<p>Doctor? <a style="color: #ffffff;" href="http://34.201.241.169/wp-login.php?action=register"><em>Join us</em></a></p>		
+		Doctor? <a style="color: #ffffff;" href="marvaljuan.com/wp-login.php?action=register"><em>Join us</em></a>		
 			<h3>Trusted by</h3>		
 										<img width="147" height="50" src="http://marvaljuan.com/wp-content/uploads/2020/12/logo-google-medcase.png" alt="" loading="lazy" />											
 										<img width="126" height="50" src="http://marvaljuan.com/wp-content/uploads/2020/12/logo-Verily_Life_Sciences.png" alt="" loading="lazy" />											
