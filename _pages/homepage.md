@@ -61,6 +61,6 @@ on-demand.</h2>
 		<p><strong>Our marketplace and tooling is HIPAA and FDA compliant,</strong> while also making sure to adhere to the SUNSHINE ACT.</p>		
 										<img src="http://marvaljuan.com/wp-content/uploads/elementor/thumbs/medcase-3-oz6xn2kqwzwmr3jnzid10gjcbafbcv5s4vsagt7qfu.png" title="medcase-3" alt="medcase-3" />											
 		<p><strong>We have world class experience with the FDA and bringing quality products to the market.</strong> Medcase Health roots are based on AI annotation and clinical workflows from years of experience in the industry. We are already working with world leaders in AI and Healthcare.</p>		
-			<a href="http://34.201.241.169/wp-login.php?action=register" role="button">
+			<a href="http://marvaljuan.com/wp-login.php?action=register" role="button">
 						GET STARTED
 					</a>
