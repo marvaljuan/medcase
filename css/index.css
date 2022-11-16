@@ -1,0 +1,87 @@
+@import './search-job.css';
+@import './salary.css';
+@import './slider.css';
+@import './topics-slider.css';
+
+body {
+    font-family: Montserrat, sans-serif;
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  
+  h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #102ee8;
+    font-size: 3.75rem;
+    line-height: 1.1;
+    font-weight: 700;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #102ee8;
+    font-size: 1.625rem;
+    line-height: 31px;
+    font-weight: 500;
+  }
+  
+  h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    line-height: 29px;
+    font-weight: 600;
+  }
+  
+  a {
+    display: block;
+    -webkit-transition: opacity 200ms ease;
+    transition: opacity 200ms ease;
+    color: #1a1b1f;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: #32343a;
+  }
+  
+  a:active {
+    color: #43464d;
+  }
+  
+  
+  
+  label {
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  .page-padding {
+    overflow: hidden;
+    max-width: 2000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+  }
+
+  .container-large {
+    width: 100%;
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 105px;
+  }
+
+  .p-center {
+    text-align: center;
+  }
+  

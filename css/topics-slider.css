@@ -1,0 +1,61 @@
+.section-topics {
+    position: relative;
+  }
+  
+  .mask {
+    overflow: visible;
+    width: 266px;
+    height: 236px;
+  }
+  
+  .left-arrow {
+    display: none;
+  }
+  
+  .right-arrow {
+    display: none;
+  }
+  
+  .slide {
+    margin-right: 80px;
+    background-color: #f7f8fc;
+  }
+  
+  .slider {
+    background-color: transparent;
+  }
+  
+  .slide-box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .slide-text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+    line-height: 21.9px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+ 
