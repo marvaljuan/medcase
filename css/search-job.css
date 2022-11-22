@@ -104,4 +104,39 @@
       font-weight: 600;
       font-size: 14px;
       line-height: 26px;
+      margin: 0;
   }
+
+  .container-years {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 100px;
+    flex-wrap: nowrap;
+    max-height: 8.5rem;
+    gap: 0;
+}
+
+.experience-field {
+  background-color: #fff;
+    width: 100%;
+    max-width: 23,375rem;
+    height: 2.5rem;
+    border: 1px solid #282728;
+    border-radius: 4px;
+    padding: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
+select.experience-field option{
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #282728;
+  margin-top: -4px;
+}
